@@ -108,9 +108,9 @@ copd_data <- data.frame(
 )
 
 # --- Save ---
-write.csv(copd_data, "data/copd_simulated.csv", row.names = FALSE)
+write.csv(copd_data, file = "copd_simulated.csv", row.names = FALSE)
 
-cat("✅ Simulated dataset created: data/copd_simulated.csv\n")
+cat("✅ Simulated dataset created: copd_simulated.csv\n")
 cat(sprintf("   Total patients : %d\n", n))
 cat(sprintf("   Severe cases   : %d (%.1f%%)\n", sum(copd_data$severe_tag),
             mean(copd_data$severe_tag) * 100))
