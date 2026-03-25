@@ -128,7 +128,7 @@ source("scripts/04_random_forest.R")       # Random Forest + comparison
 MSc Health Data Science — Swansea University (2024)  
 BSc Microbiology — Lagos State University (2013)  
 
-🔗 [LinkedIn](https://linkedin.com) | 📧 your.email@example.com
+🔗 [LinkedIn](www.linkedin.com/in/oluwatosin-adewole-) | 📧 adewoleoluwatosin3@gmail.com
 
 ---
 
