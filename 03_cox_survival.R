@@ -12,7 +12,7 @@ library(dplyr)
 library(broom)
 
 # --- Load data ---
-copd <- read.csv("data/copd_simulated.csv")
+copd <- read.csv("copd_simulated.csv")
 
 cat("=== SURVIVAL ANALYSIS ===\n\n")
 
