@@ -125,8 +125,8 @@ source("scripts/04_random_forest.R")       # Random Forest + comparison
 ## 👤 Author
 
 **Oluwatosin Samson Adewole**  
-MSc Health Data Science — Swansea University (2024)  
-BSc Microbiology — Lagos State University (2013)  
+PgD Health Data Science — Swansea University (2024)  
+BSc Microbiology — Wesley University Ondo (2013)  
 
 🔗 [LinkedIn](www.linkedin.com/in/oluwatosin-adewole-) | 📧 adewoleoluwatosin3@gmail.com
 
