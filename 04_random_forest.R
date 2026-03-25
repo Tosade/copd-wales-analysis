@@ -13,7 +13,7 @@ library(caret)
 library(pROC)
 
 # --- Load data ---
-copd <- read.csv("data/copd_simulated.csv")
+copd <- read.csv("copd_simulated.csv")
 
 cat("=== RANDOM FOREST ANALYSIS ===\n\n")
 
