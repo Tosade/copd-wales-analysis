@@ -11,7 +11,7 @@ library(broom)
 library(pROC)
 
 # --- Load data ---
-copd <- read.csv("data/copd_simulated.csv")
+copd <- read.csv("copd_simulated.csv")
 
 cat("=== LOGISTIC REGRESSION ANALYSIS ===\n\n")
 
