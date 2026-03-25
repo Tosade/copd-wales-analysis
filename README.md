@@ -128,7 +128,7 @@ source("scripts/04_random_forest.R")       # Random Forest + comparison
 PgD Health Data Science — Swansea University (2024)  
 BSc Microbiology — Wesley University Ondo (2013)  
 
-🔗 [LinkedIn](www.linkedin.com/in/oluwatosin-adewole-) | 📧 adewoleoluwatosin3@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/oluwatosin-adewole-) | 📧 adewoleoluwatosin3@gmail.com
 
 ---
 
