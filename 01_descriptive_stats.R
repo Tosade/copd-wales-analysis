@@ -9,7 +9,7 @@ library(dplyr)
 library(tidyr)
 
 # --- Load data ---
-copd <- read.csv("data/copd_simulated.csv")
+copd <- read.csv("copd_simulated.csv")
 
 cat("=== COPD WALES — DESCRIPTIVE STATISTICS ===\n\n")
 
